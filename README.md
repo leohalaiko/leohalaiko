@@ -1,7 +1,6 @@
 ## Hello I'm Leonardo Halaiko
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Java / HTML
+- 🔭 I’m currently working on Dev Junior, Javascript, Angular, React, Next, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp && MySQL em Udemy
 - 👯 I’m looking to collaborate on Java Back or Front
 - 💬 Personal Email: xxhalaikoxx@gmail.com
 - 📫 How to reach me: www.linkedin.com/in/leonardo-halaiko
